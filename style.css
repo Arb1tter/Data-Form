@@ -1,0 +1,39 @@
+body {
+    height: 2000px;
+    width: 100%;
+    background-color: darkolivegreen;
+    color: whitesmoke;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+}
+h2 {
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    display: flex;
+}
+
+.form-group {
+    padding: 30px;
+}
+
+#outputTitle {
+    width:100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+#output {
+    height:150px;
+    width:100%;
+    border-style: dotted;
+    border-color: rgb(49, 42, 42);
+}
+
+#clubLogo {
+    height: 150px;
+    width: 150px;
+}
